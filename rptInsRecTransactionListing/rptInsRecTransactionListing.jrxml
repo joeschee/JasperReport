@@ -933,29 +933,17 @@
 								<textFieldExpression><![CDATA[$F{CurrencyCode}]]></textFieldExpression>
 							</textField>
 							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
-								<reportElement x="20" y="2" width="115" height="1" isRemoveLineWhenBlank="true" uuid="6c40c74b-c06e-4b28-94f2-af695e54d9cf">
-									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<reportElement x="20" y="2" width="250" height="1" isRemoveLineWhenBlank="true" uuid="6c40c74b-c06e-4b28-94f2-af695e54d9cf">
 									<property name="com.jaspersoft.studio.unit.x" value="px"/>
 									<property name="com.jaspersoft.studio.unit.y" value="px"/>
 									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
 									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
 								</reportElement>
 								<textElement>
 									<font size="9" isBold="false"/>
 								</textElement>
 								<textFieldExpression><![CDATA[$F{labelTotal1}]]></textFieldExpression>
-							</textField>
-							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
-								<reportElement x="140" y="2" width="90" height="1" isRemoveLineWhenBlank="true" uuid="be327235-35cb-42ab-96bc-9e8b02c18455">
-									<property name="com.jaspersoft.studio.unit.width" value="px"/>
-									<property name="com.jaspersoft.studio.unit.x" value="px"/>
-									<property name="com.jaspersoft.studio.unit.height" value="px"/>
-									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
-								</reportElement>
-								<textElement>
-									<font size="9" isBold="false"/>
-								</textElement>
-								<textFieldExpression><![CDATA[$F{grp2}]]></textFieldExpression>
 							</textField>
 							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
 								<reportElement x="455" y="2" width="35" height="1" isRemoveLineWhenBlank="true" uuid="83216255-a7d5-4a50-aff9-bd35ea7d3ebe">
@@ -1016,11 +1004,11 @@
 								<textFieldExpression><![CDATA[$F{NetDuetoInsCo}]]></textFieldExpression>
 							</textField>
 							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
-								<reportElement x="20" y="3" width="115" height="1" isRemoveLineWhenBlank="true" uuid="2cd62695-e67a-41ca-b585-a4cc80ed326c">
-									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<reportElement x="20" y="3" width="250" height="1" isRemoveLineWhenBlank="true" uuid="2cd62695-e67a-41ca-b585-a4cc80ed326c">
 									<property name="com.jaspersoft.studio.unit.x" value="px"/>
 									<property name="com.jaspersoft.studio.unit.y" value="px"/>
 									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
 									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
 								</reportElement>
 								<textElement>
@@ -1029,29 +1017,17 @@
 								<textFieldExpression><![CDATA[$F{labelTotal1}]]></textFieldExpression>
 							</textField>
 							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
-								<reportElement positionType="Float" x="20" y="4" width="115" height="1" isRemoveLineWhenBlank="true" uuid="35e07559-84a9-41c5-8021-efaf8cd5f041">
-									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<reportElement positionType="Float" x="20" y="4" width="250" height="1" isRemoveLineWhenBlank="true" uuid="35e07559-84a9-41c5-8021-efaf8cd5f041">
 									<property name="com.jaspersoft.studio.unit.x" value="px"/>
 									<property name="com.jaspersoft.studio.unit.y" value="px"/>
 									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
 									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
 								</reportElement>
 								<textElement>
 									<font size="9" isBold="false"/>
 								</textElement>
 								<textFieldExpression><![CDATA[$F{labelTotal2}]]></textFieldExpression>
-							</textField>
-							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
-								<reportElement x="140" y="3" width="90" height="1" isRemoveLineWhenBlank="true" uuid="7c2b9d85-56f9-4bf7-be99-5ba7ea379ef5">
-									<property name="com.jaspersoft.studio.unit.width" value="px"/>
-									<property name="com.jaspersoft.studio.unit.x" value="px"/>
-									<property name="com.jaspersoft.studio.unit.height" value="px"/>
-									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
-								</reportElement>
-								<textElement>
-									<font size="9" isBold="false"/>
-								</textElement>
-								<textFieldExpression><![CDATA[$F{grp1}]]></textFieldExpression>
 							</textField>
 							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
 								<reportElement style="twoDecimalFont" x="390" y="3" width="65" height="1" isRemoveLineWhenBlank="true" uuid="386532b1-5b99-4aaf-9ff2-16895d47c3b7">
