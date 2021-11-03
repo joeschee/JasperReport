@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.17.0.final using JasperReports Library version 6.17.0-6d93193241dd8cc42629e188b94f9e0bc5722efd  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="rptRenewalNoticeInsureHub" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="cdb73517-48fa-4187-b147-fe3f0c01540e">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="rptRenewalNoticeInsureHub (34)"/>
+	<subDataset name="Dataset1" uuid="fd371f06-27c0-4a17-beaf-73b48cf4947b">
+		<property name="com.jaspersoft.studio.data.defaultdataadapter" value="rptRenewalNoticeInsureHub (34)"/>
+		<queryString language="json">
+			<![CDATA[rptModuleH.content]]>
+		</queryString>
+		<field name="PolicyNo" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="PolicyNo"/>
+			<fieldDescription><![CDATA[PolicyNo]]></fieldDescription>
+		</field>
+		<field name="lblPolicyNo" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblPolicyNo"/>
+			<fieldDescription><![CDATA[lblPolicyNo]]></fieldDescription>
+		</field>
+		<field name="note2" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="note2"/>
+			<fieldDescription><![CDATA[note2]]></fieldDescription>
+		</field>
+		<field name="note3" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="note3"/>
+			<fieldDescription><![CDATA[note3]]></fieldDescription>
+		</field>
+		<field name="LH_GSTRegNo" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="LH_GSTRegNo"/>
+			<fieldDescription><![CDATA[LH_GSTRegNo]]></fieldDescription>
+		</field>
+		<field name="CoverType1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="CoverType1"/>
+			<fieldDescription><![CDATA[CoverType1]]></fieldDescription>
+		</field>
+		<field name="InsuredName" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="InsuredName"/>
+			<fieldDescription><![CDATA[InsuredName]]></fieldDescription>
+		</field>
+		<field name="lblDateExpiry" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblDateExpiry"/>
+			<fieldDescription><![CDATA[lblDateExpiry]]></fieldDescription>
+		</field>
+		<field name="lblR_ExcessAmt" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblR_ExcessAmt"/>
+			<fieldDescription><![CDATA[lblR_ExcessAmt]]></fieldDescription>
+		</field>
+		<field name="companylogoname" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="companylogoname"/>
+			<fieldDescription><![CDATA[companylogoname]]></fieldDescription>
+		</field>
+		<field name="R_NetPremium" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="R_NetPremium"/>
+			<fieldDescription><![CDATA[R_NetPremium]]></fieldDescription>
+		</field>
+		<field name="fixedNote" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="fixedNote"/>
+			<fieldDescription><![CDATA[fixedNote]]></fieldDescription>
+		</field>
+		<field name="lblclass" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblclass"/>
+			<fieldDescription><![CDATA[lblclass]]></fieldDescription>
+		</field>
+		<field name="MakeModel" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="MakeModel"/>
+			<fieldDescription><![CDATA[MakeModel]]></fieldDescription>
+		</field>
+		<field name="lblCOEExpire" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblCOEExpire"/>
+			<fieldDescription><![CDATA[lblCOEExpire]]></fieldDescription>
+		</field>
+		<field name="COEExpire" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="COEExpire"/>
+			<fieldDescription><![CDATA[COEExpire]]></fieldDescription>
+		</field>
+		<field name="RoadTaxExpire" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="RoadTaxExpire"/>
+			<fieldDescription><![CDATA[RoadTaxExpire]]></fieldDescription>
+		</field>
+		<field name="class" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="class"/>
+			<fieldDescription><![CDATA[class]]></fieldDescription>
+		</field>
+		<field name="VehicleNumber" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="VehicleNumber"/>
+			<fieldDescription><![CDATA[VehicleNumber]]></fieldDescription>
+		</field>
+		<field name="MailingAdd1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="MailingAdd1"/>
+			<fieldDescription><![CDATA[MailingAdd1]]></fieldDescription>
+		</field>
+		<field name="lblMakeModel" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblMakeModel"/>
+			<fieldDescription><![CDATA[lblMakeModel]]></fieldDescription>
+		</field>
+		<field name="InsuredNameTitle" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="InsuredNameTitle"/>
+			<fieldDescription><![CDATA[InsuredNameTitle]]></fieldDescription>
+		</field>
+		<field name="lblRoadTaxExpire" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblRoadTaxExpire"/>
+			<fieldDescription><![CDATA[lblRoadTaxExpire]]></fieldDescription>
+		</field>
+		<field name="MailingAdd3" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="MailingAdd3"/>
+			<fieldDescription><![CDATA[MailingAdd3]]></fieldDescription>
+		</field>
+		<field name="MailingAdd2" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="MailingAdd2"/>
+			<fieldDescription><![CDATA[MailingAdd2]]></fieldDescription>
+		</field>
+		<field name="lblR_NCBPer1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblR_NCBPer1"/>
+			<fieldDescription><![CDATA[lblR_NCBPer1]]></fieldDescription>
+		</field>
+		<field name="R_NCBPer1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="R_NCBPer1"/>
+			<fieldDescription><![CDATA[R_NCBPer1]]></fieldDescription>
+		</field>
+		<field name="headertype" class="java.lang.Integer">
+			<property name="net.sf.jasperreports.json.field.expression" value="headertype"/>
+			<fieldDescription><![CDATA[headertype]]></fieldDescription>
+		</field>
+		<field name="R_ExcessAmt" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="R_ExcessAmt"/>
+			<fieldDescription><![CDATA[R_ExcessAmt]]></fieldDescription>
+		</field>
+		<field name="CompID" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="CompID"/>
+			<fieldDescription><![CDATA[CompID]]></fieldDescription>
+		</field>
+		<field name="lblInsurer" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblInsurer"/>
+			<fieldDescription><![CDATA[lblInsurer]]></fieldDescription>
+		</field>
+		<field name="lblR_NetPremium" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblR_NetPremium"/>
+			<fieldDescription><![CDATA[lblR_NetPremium]]></fieldDescription>
+		</field>
+		<field name="LH_title2" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="LH_title2"/>
+			<fieldDescription><![CDATA[LH_title2]]></fieldDescription>
+		</field>
+		<field name="LH_title1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="LH_title1"/>
+			<fieldDescription><![CDATA[LH_title1]]></fieldDescription>
+		</field>
+		<field name="LH_title4" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="LH_title4"/>
+			<fieldDescription><![CDATA[LH_title4]]></fieldDescription>
+		</field>
+		<field name="Tel" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="Tel"/>
+			<fieldDescription><![CDATA[Tel]]></fieldDescription>
+		</field>
+		<field name="DateExpiry" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="DateExpiry"/>
+			<fieldDescription><![CDATA[DateExpiry]]></fieldDescription>
+		</field>
+		<field name="LH_title3" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="LH_title3"/>
+			<fieldDescription><![CDATA[LH_title3]]></fieldDescription>
+		</field>
+		<field name="lblVehicleNumber" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblVehicleNumber"/>
+			<fieldDescription><![CDATA[lblVehicleNumber]]></fieldDescription>
+		</field>
+		<field name="lblTitle" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblTitle"/>
+			<fieldDescription><![CDATA[lblTitle]]></fieldDescription>
+		</field>
+		<field name="Fax" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="Fax"/>
+			<fieldDescription><![CDATA[Fax]]></fieldDescription>
+		</field>
+		<field name="note1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="note1"/>
+			<fieldDescription><![CDATA[note1]]></fieldDescription>
+		</field>
+		<field name="Insurer" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="Insurer"/>
+			<fieldDescription><![CDATA[Insurer]]></fieldDescription>
+		</field>
+		<field name="lblCoverType1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lblCoverType1"/>
+			<fieldDescription><![CDATA[lblCoverType1]]></fieldDescription>
+		</field>
+	</subDataset>
+	<queryString language="json">
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="77" splitType="Stretch">
+			<componentElement>
+				<reportElement x="-8" y="-8" width="575" height="76" uuid="8cf55b91-65b1-44c5-b7bc-fc5a15c9c38b"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="0bda12ce-1a1d-4895-a863-ba0c19d30e55">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="76" width="575">
+						<textField>
+							<reportElement x="9" y="0" width="560" height="20" uuid="7c7cba05-6ca3-4eff-9137-5a403b0bd289"/>
+							<textElement textAlignment="Center">
+								<font size="12" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{LH_title1}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="8" y="16" width="560" height="20" uuid="b728a0fd-190e-4092-b7c3-9f540d22ec27"/>
+							<textElement textAlignment="Center">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{LH_title2}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="8" y="29" width="560" height="20" uuid="a8afb9a5-fddd-4ead-a764-86c7deb27b26"/>
+							<textElement textAlignment="Center">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{LH_title3}]]></textFieldExpression>
+						</textField>
+						<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+							<reportElement x="0" y="42" width="552" height="15" isRemoveLineWhenBlank="true" uuid="3d658336-9fea-402a-af56-f334bbb1cb2e">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<printWhenExpression><![CDATA[$F{headertype}==0 && $F{LH_title4}!=""]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{LH_title4}]]></textFieldExpression>
+						</textField>
+						<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+							<reportElement x="0" y="42" width="552" height="15" isRemoveLineWhenBlank="true" uuid="17b98340-5ef8-48f1-bf02-52b286e6e256">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<printWhenExpression><![CDATA[$F{headertype}==0 && $F{LH_title4}==""]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{LH_GSTRegNo}]]></textFieldExpression>
+						</textField>
+						<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+							<reportElement x="0" y="55" width="575" height="15" isRemoveLineWhenBlank="true" uuid="17b98340-5ef8-48f1-bf02-52b286e6e256">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<printWhenExpression><![CDATA[$F{headertype}==0 && $F{LH_title4}!=""]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{LH_GSTRegNo}]]></textFieldExpression>
+						</textField>
+						<image hAlign="Center">
+							<reportElement x="0" y="0" width="574" height="75" isRemoveLineWhenBlank="true" uuid="6fb22adb-16ba-42f6-8d72-d0a4bd5d759e">
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==1)]]></printWhenExpression>
+							</reportElement>
+							<imageExpression><![CDATA[($F{headertype}==1?$F{companylogoname}:"")]]></imageExpression>
+						</image>
+						<image hAlign="Left">
+							<reportElement x="2" y="1" width="75" height="75" isRemoveLineWhenBlank="true" uuid="6fb22adb-16ba-42f6-8d72-d0a4bd5d759e">
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0)]]></printWhenExpression>
+							</reportElement>
+							<imageExpression><![CDATA[($F{headertype}==0?$F{companylogoname}:"")]]></imageExpression>
+						</image>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+			<line>
+				<reportElement x="-21" y="68" width="595" height="1" uuid="66fcfa36-a16b-41d8-b3f3-d9fd714baff7">
+					<property name="com.jaspersoft.studio.unit.width" value="px"/>
+				</reportElement>
+			</line>
+		</band>
+	</title>
+	<detail>
+		<band height="105">
+			<componentElement>
+				<reportElement x="2" y="-3" width="550" height="90" uuid="15bb9d9b-e37d-473f-8901-9981d13ee50f"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="19723ff9-ffaf-4298-9eea-cd8b0fa10712">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="90" width="550">
+						<textField>
+							<reportElement x="0" y="0" width="550" height="20" uuid="50af00b0-f84c-423d-9c83-96e318e77d0a"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{InsuredName}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="15" width="550" height="20" uuid="57459e44-2869-4f86-9a45-7f7d9ac88233"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{MailingAdd1}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="30" width="550" height="20" isRemoveLineWhenBlank="true" uuid="9861f786-b5d8-4de9-b4b1-4063ae7e9796"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{MailingAdd2}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="45" width="540" height="20" uuid="219b16c8-0fc7-4269-87ff-21967ab662a7"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{MailingAdd3}]]></textFieldExpression>
+						</textField>
+						<staticText>
+							<reportElement x="0" y="65" width="260" height="20" uuid="e98d9890-1522-49b2-9afa-d5b37ce26aef"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<text><![CDATA[Dear  Sir/Mdm,]]></text>
+						</staticText>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+		</band>
+		<band height="99" splitType="Stretch">
+			<line>
+				<reportElement x="-3" y="6" width="555" height="1" uuid="bd8e3ff0-4af6-4539-af27-b3bedac00a16">
+					<property name="com.jaspersoft.studio.unit.width" value="px"/>
+				</reportElement>
+			</line>
+			<componentElement>
+				<reportElement x="0" y="10" width="554" height="88" uuid="01396ec4-d109-4f1d-95df-8b4b34f75a0b"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="0211c10b-7629-44ca-ba6d-a71aa9f3cad9">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="88" width="554">
+						<textField>
+							<reportElement x="0" y="18" width="80" height="20" uuid="882422ff-a1dc-48e6-a9ba-f62700c20d8c"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblPolicyNo}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="36" width="80" height="20" uuid="684fd4d2-ad24-49c8-8f0c-03abdb5d0b25"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblDateExpiry}]]></textFieldExpression>
+						</textField>
+						<textField isBlankWhenNull="true">
+							<reportElement x="0" y="0" width="100" height="19" isRemoveLineWhenBlank="true" uuid="7b74f93f-b251-4857-88c8-bcbaf998b427"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblVehicleNumber}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="51" width="100" height="20" uuid="910db737-9cf7-43c9-941d-94b060358e10"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblInsurer}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="67" width="100" height="20" uuid="3e8e4eea-87f7-4bf2-a44c-dc43f8a11375"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblR_NetPremium}]]></textFieldExpression>
+						</textField>
+						<textField isBlankWhenNull="true">
+							<reportElement x="288" y="0" width="70" height="19" isRemoveLineWhenBlank="true" uuid="78812a38-09e8-47bb-adf1-42ade560e4c6">
+								<printWhenExpression><![CDATA[$F{lblclass}!= null]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Left">
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblclass}]]></textFieldExpression>
+						</textField>
+						<textField isBlankWhenNull="true">
+							<reportElement x="100" y="0" width="100" height="19" isRemoveLineWhenBlank="true" uuid="d2bebeb9-93c5-46b1-bd9e-7ea7cd34019f"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{VehicleNumber}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="100" y="17" width="100" height="20" uuid="7a542117-afb5-4993-b03f-3c9bef6a3c4c"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{PolicyNo}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="100" y="36" width="100" height="20" uuid="338e24c9-4342-42ce-98a1-accef8592f5d"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{DateExpiry}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="100" y="51" width="300" height="20" uuid="0af46be9-676b-4912-9821-49a3ef0affbd"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{Insurer}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="100" y="67" width="100" height="20" uuid="8e29375c-f68b-4491-8373-f5f9e3319725"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA["$"+" "+$F{R_NetPremium}]]></textFieldExpression>
+						</textField>
+						<textField isBlankWhenNull="true">
+							<reportElement x="350" y="0" width="101" height="19" isRemoveLineWhenBlank="true" uuid="9eff519e-f365-4839-84cd-c0ce44449951">
+								<printWhenExpression><![CDATA[$F{class}!= null]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Right">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{class}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="288" y="14" width="70" height="21" isRemoveLineWhenBlank="true" uuid="ad2e03d1-cf73-439d-b7fa-991ab3c10b82"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblCOEExpire}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="346" y="14" width="105" height="21" isRemoveLineWhenBlank="true" uuid="6aeefe0c-4f7f-452c-853c-b806f7731274"/>
+							<textElement textAlignment="Right">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{COEExpire}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="288" y="27" width="74" height="20" uuid="d653b14d-9696-4ff7-be2a-bd0615c301d4"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblRoadTaxExpire}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="346" y="28" width="105" height="20" uuid="dca652d8-2f49-4b09-a9be-bd4e037c2edb"/>
+							<textElement textAlignment="Right">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{RoadTaxExpire}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="287" y="41" width="103" height="20" uuid="6659f9cf-6266-4f9f-a605-2c240dd0dd13"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblCoverType1}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="347" y="41" width="104" height="19" uuid="c889e91e-a420-4613-b942-e2b93800a925"/>
+							<textElement textAlignment="Right">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{CoverType1}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="270" y="68" width="60" height="19" uuid="388451ed-32b1-437d-b64c-4be301f2c9f5"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblR_NCBPer1}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="330" y="68" width="68" height="19" uuid="441fd76b-4116-4dd7-a985-c1d350636e41"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{R_NCBPer1}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="420" y="68" width="50" height="20" uuid="449323f4-576b-4133-bf26-c0d50fe95abd">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+							</reportElement>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblR_ExcessAmt}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="470" y="68" width="70" height="20" uuid="f75f7b22-dc1f-4b19-9b1e-32c362cf7897"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{R_ExcessAmt}]]></textFieldExpression>
+						</textField>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+			<line>
+				<reportElement x="-2" y="98" width="554" height="1" uuid="f586edda-0891-473e-8cfc-d3c352dbce61">
+					<property name="com.jaspersoft.studio.unit.width" value="px"/>
+				</reportElement>
+			</line>
+			<line>
+				<reportElement x="-3" y="6" width="1" height="93" uuid="0f189e63-17be-4e90-92ba-3b379a45c5d6">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+			</line>
+			<line>
+				<reportElement x="551" y="7" width="1" height="91" uuid="2c9f2293-db89-4aab-8020-c96ff9681f47"/>
+			</line>
+			<componentElement>
+				<reportElement x="2" y="-17" width="550" height="33" uuid="df36c152-71b4-4357-8586-e905f877f589"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="ee912bef-7c90-4169-941b-7a894c038bbd">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="33" width="550">
+						<textField>
+							<reportElement x="0" y="3" width="550" height="30" uuid="a08585d8-3a1a-4c22-ab54-c5673a156135"/>
+							<textElement textAlignment="Center">
+								<font size="12" isBold="true" isUnderline="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{lblTitle}]]></textFieldExpression>
+						</textField>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+		</band>
+		<band height="120">
+			<componentElement>
+				<reportElement x="0" y="0" width="554" height="120" uuid="b5d0dbcc-98b6-477f-acd8-7487444fc0e7"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="71e7ad91-72c6-4300-a44f-6cc398f13ea7">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="120" width="554">
+						<textField textAdjust="StretchHeight">
+							<reportElement x="0" y="0" width="554" height="20" uuid="7f9f3166-14b8-4ab4-a64d-8a8fd8be7a3b"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{note1}]]></textFieldExpression>
+						</textField>
+						<textField isBlankWhenNull="true">
+							<reportElement x="0" y="54" width="554" height="66" uuid="cb531cd7-aa4f-4101-aea4-c499c2bd6f88"/>
+							<textElement markup="html">
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{fixedNote}]]></textFieldExpression>
+						</textField>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+		</band>
+		<band height="253">
+			<componentElement>
+				<reportElement x="1" y="-10" width="550" height="250" uuid="f0554076-062d-4a2d-ae2e-d64c8257ac14"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="666a1889-3045-4b33-b317-f979253942af">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="250" width="550">
+						<textField textAdjust="StretchHeight">
+							<reportElement x="0" y="4" width="550" height="20" uuid="de25401c-5a83-40f6-93d6-3676be77bb59"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{note2}]]></textFieldExpression>
+						</textField>
+						<textField textAdjust="StretchHeight">
+							<reportElement x="0" y="17" width="550" height="20" uuid="64570d0a-ad0b-4d71-8d16-34d73f037e27"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{note3}]]></textFieldExpression>
+						</textField>
+						<line>
+							<reportElement x="0" y="2" width="550" height="1" uuid="45c786e9-69c7-4e30-82da-05d6393579d7"/>
+						</line>
+						<staticText>
+							<reportElement x="2" y="65" width="90" height="20" uuid="37ce1753-3e28-45a8-9576-fafe8e1acbde"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<text><![CDATA[Insured Name :]]></text>
+						</staticText>
+						<textField textAdjust="StretchHeight">
+							<reportElement x="85" y="65" width="217" height="20" uuid="071dfed7-4eb0-417e-b652-e0fbb3eadcd5"/>
+							<textElement>
+								<font fontName="SansSerif" size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{InsuredName}]]></textFieldExpression>
+						</textField>
+						<staticText>
+							<reportElement x="3" y="102" width="69" height="20" uuid="26bfa9df-b072-41bd-a516-d3aab0cceefd">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+							</reportElement>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<text><![CDATA[Vehicle No :]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="322" y="65" width="90" height="20" uuid="cf82c375-3708-4707-8b92-83dabbbfa802"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<text><![CDATA[Contact No :]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="322" y="102" width="100" height="20" uuid="a93a0584-f427-4a70-9214-8ff2da148641"/>
+							<textElement>
+								<font fontName="SansSerif" size="9" isBold="true"/>
+							</textElement>
+							<text><![CDATA[Bank/Cheque No :]]></text>
+						</staticText>
+						<line>
+							<reportElement x="422" y="78" width="72" height="1" uuid="a044ff21-c788-4e5c-b81a-8af8518bdf10"/>
+						</line>
+						<line>
+							<reportElement x="422" y="114" width="72" height="1" uuid="d5542d5c-10e9-49f9-82a1-510df5c7454b"/>
+						</line>
+						<staticText>
+							<reportElement x="1" y="210" width="100" height="20" uuid="0538780b-2ec5-48ae-9c6a-af960f2edd34"/>
+							<textElement>
+								<font fontName="SansSerif" size="10" isBold="false"/>
+							</textElement>
+							<text><![CDATA[Signature & Date]]></text>
+						</staticText>
+						<line>
+							<reportElement x="0" y="206" width="170" height="1" uuid="e3535336-72dd-46df-9a5e-2b6f15c8d3d6"/>
+						</line>
+						<textField>
+							<reportElement x="85" y="102" width="77" height="20" uuid="5f7b0474-74a8-4a77-bef1-a8b292515529">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+							</reportElement>
+							<textElement>
+								<font fontName="SansSerif" size="9" isUnderline="false"/>
+							</textElement>
+							<textFieldExpression><![CDATA[$F{VehicleNumber}]]></textFieldExpression>
+						</textField>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+		</band>
+	</detail>
+</jasperReport>

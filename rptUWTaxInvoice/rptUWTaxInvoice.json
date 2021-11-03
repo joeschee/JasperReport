@@ -1,0 +1,63 @@
+ {
+ 	"result": [{
+ 		"header": "NODATA",
+ 		"row": 1,
+ 		"value": ""
+ 	}],
+ 	"rptModuleI": {
+ 		"content": [{
+ 			"noData": ""
+ 		}]
+ 	},
+ 	"rptModuleH": {
+ 		"content": [{
+ 			"TraderName": "TOKIO MARINE  INSURANCE SPORE LTD",
+ 			"LH_GSTRegNo": "GST REG NO: 888111111E  Company Reg No: 999111111E",
+ 			"lblDateIssued1": "DATE:",
+ 			"lblPayNote1": "PAYMENT MODE:<br/>Cheque should be crossed and made payable to DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD.",
+ 			"Tick4": "",
+ 			"Tick5": "1",
+ 			"companylogoname": "/usr/local/Tomcat/apache-tomcat-8.5.37/bin/companyLogos01234567891011121314151617181920212223242526",
+ 			"GSTAmt1": "7,028.96",
+ 			"lblRefNo1": "NO:",
+ 			"fSignCompany": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"lblAmt": "AMOUNT(S$)",
+ 			"Settinglbl": "1",
+ 			"ClientRefNo1": "TESTING123",
+ 			"Description1": "Being Brokerage from 01/01/2021 31/01/2021.<br/>Exempt Firm Commission: 2191.65 Firm GST: 153.50<br/>Standard-rated Firm Commission: 98220.62 Firm GST: 6875.46",
+ 			"lblGSTAmt1": "",
+ 			"totalInWords": "",
+ 			"lblAmtBFGST1": "",
+ 			"lblTotal2": "TOTAL INCL GST:",
+ 			"AmtBFGST1": "100,412.27",
+ 			"CurrencyCode1": "SGD",
+ 			"lblTotal1": "7% GST:",
+ 			"CurrencyW": "",
+ 			"DateIssued1": "07/09/2021",
+ 			"Total1": "7,028.96",
+ 			"lblFAX": "",
+ 			"RefNo": "EAUWT21-00003",
+ 			"Total2": "107,441.23",
+ 			"fAuthorised": "AUTHORISED SIGNATURE",
+ 			"lblClientRefNo1": "OTHER REF:",
+ 			"headertype": 0,
+ 			"CompID": "-",
+ 			"lblTraderCode1": "A/C NO:",
+ 			"lbleSign": "",
+ 			"RefNo1": "EAUWT21-00003",
+ 			"TraderCode1": "TMIS-SCL",
+ 			"lblTelephone": "",
+ 			"lblCurrencyCode1": "CURRENCY",
+ 			"LH_title2": "123 Upper Aljunied Link #11-11 456 Quartz Industrial Hub 789 Singapore 012345",
+ 			"lblAddress3": "SPORE569551",
+ 			"LH_title1": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"lblAddress2": "09-01TOKIO MARINE CENTRE",
+ 			"InvDesc": "",
+ 			"LH_title4": "",
+ 			"LH_title3": "TEL: 7777 2222 FAX: 8888 3333",
+ 			"fLine": "______________________________",
+ 			"lblTitle": "TAX INVOICE",
+ 			"lblAddress1": "20 MCCALLUM STREET"
+ 		}]
+ 	}
+ }

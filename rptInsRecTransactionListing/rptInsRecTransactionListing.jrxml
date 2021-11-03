@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.17.0.final using JasperReports Library version 6.17.0-6d93193241dd8cc42629e188b94f9e0bc5722efd  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="rptInsRecTransactionListing" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f70ebe54-4ffb-4390-a2f8-562ebf98bf33">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="rptInsRecTransactionListing"/>
+	<property name="com.jaspersoft.studio.unit." value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.pageHeight" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.pageWidth" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.topMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.bottomMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.leftMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.rightMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.columnWidth" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.columnSpacing" value="pixel"/>
+	<style name="twoDecimalFont" hTextAlign="Right" pattern="#,###,###,##0.00"/>
+	<style name="Table_TH" mode="Opaque" backcolor="#FFFFFF">
+		<box>
+			<pen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<topPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<leftPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<bottomPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<rightPen lineWidth="0.5" lineColor="#FFFFFF"/>
+		</box>
+	</style>
+	<style name="Table_CH" mode="Opaque" backcolor="#FFFFFF">
+		<box>
+			<pen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<topPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<leftPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<bottomPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<rightPen lineWidth="0.5" lineColor="#FFFFFF"/>
+		</box>
+	</style>
+	<style name="Table_TD" mode="Opaque" backcolor="#FFFFFF">
+		<box>
+			<pen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<topPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<leftPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<bottomPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<rightPen lineWidth="0.5" lineColor="#FFFFFF"/>
+		</box>
+	</style>
+	<subDataset name="Dataset1" uuid="8f222cf3-bdec-452c-9a5a-c6892cf5ecfb">
+		<property name="com.jaspersoft.studio.data.defaultdataadapter" value="rptInsRecTransactionListing"/>
+		<queryString language="json">
+			<![CDATA[rptModuleH.content]]>
+		</queryString>
+		<field name="lbltitle" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lbltitle"/>
+			<fieldDescription><![CDATA[lbltitle]]></fieldDescription>
+		</field>
+		<field name="lh_title2" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lh_title2"/>
+			<fieldDescription><![CDATA[lh_title2]]></fieldDescription>
+		</field>
+		<field name="lh_gstregno" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lh_gstregno"/>
+			<fieldDescription><![CDATA[lh_gstregno]]></fieldDescription>
+		</field>
+		<field name="compid" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="compid"/>
+			<fieldDescription><![CDATA[compid]]></fieldDescription>
+		</field>
+		<field name="lh_title1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lh_title1"/>
+			<fieldDescription><![CDATA[lh_title1]]></fieldDescription>
+		</field>
+		<field name="lh_title4" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lh_title4"/>
+			<fieldDescription><![CDATA[lh_title4]]></fieldDescription>
+		</field>
+		<field name="lh_title3" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="lh_title3"/>
+			<fieldDescription><![CDATA[lh_title3]]></fieldDescription>
+		</field>
+		<field name="companylogoname" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="companylogoname"/>
+			<fieldDescription><![CDATA[companylogoname]]></fieldDescription>
+		</field>
+		<field name="headertype" class="java.lang.Integer">
+			<property name="net.sf.jasperreports.json.field.expression" value="headertype"/>
+			<fieldDescription><![CDATA[headertype]]></fieldDescription>
+		</field>
+	</subDataset>
+	<subDataset name="Dataset2" uuid="0921b435-b4d7-4772-a2be-d8b191c0bbaf">
+		<property name="com.jaspersoft.studio.data.defaultdataadapter" value="rptInsRecTransactionListing"/>
+		<queryString language="json">
+			<![CDATA[rptModuleI.content]]>
+		</queryString>
+		<field name="labelTotal2" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="labelTotal2"/>
+			<fieldDescription><![CDATA[labelTotal2]]></fieldDescription>
+		</field>
+		<field name="seq3" class="java.lang.Integer">
+			<property name="net.sf.jasperreports.json.field.expression" value="seq3"/>
+			<fieldDescription><![CDATA[seq3]]></fieldDescription>
+		</field>
+		<field name="InsCo" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="InsCo"/>
+			<fieldDescription><![CDATA[InsCo]]></fieldDescription>
+		</field>
+		<field name="labelTotal1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="labelTotal1"/>
+			<fieldDescription><![CDATA[labelTotal1]]></fieldDescription>
+		</field>
+		<field name="seq2" class="java.lang.Integer">
+			<property name="net.sf.jasperreports.json.field.expression" value="seq2"/>
+			<fieldDescription><![CDATA[seq2]]></fieldDescription>
+		</field>
+		<field name="AmountPaid" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="AmountPaid"/>
+			<fieldDescription><![CDATA[AmountPaid]]></fieldDescription>
+		</field>
+		<field name="ActualFGst" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="ActualFGst"/>
+			<fieldDescription><![CDATA[ActualFGst]]></fieldDescription>
+		</field>
+		<field name="seq1" class="java.lang.Integer">
+			<property name="net.sf.jasperreports.json.field.expression" value="seq1"/>
+			<fieldDescription><![CDATA[seq1]]></fieldDescription>
+		</field>
+		<field name="DiscountAmt" class="java.lang.Integer">
+			<property name="net.sf.jasperreports.json.field.expression" value="DiscountAmt"/>
+			<fieldDescription><![CDATA[DiscountAmt]]></fieldDescription>
+		</field>
+		<field name="ActualNetDue" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="ActualNetDue"/>
+			<fieldDescription><![CDATA[ActualNetDue]]></fieldDescription>
+		</field>
+		<field name="Name" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="Name"/>
+			<fieldDescription><![CDATA[Name]]></fieldDescription>
+		</field>
+		<field name="CurrencyCode" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="CurrencyCode"/>
+			<fieldDescription><![CDATA[CurrencyCode]]></fieldDescription>
+		</field>
+		<field name="PayDate" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="PayDate"/>
+			<fieldDescription><![CDATA[PayDate]]></fieldDescription>
+		</field>
+		<field name="DNCN" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="DNCN"/>
+			<fieldDescription><![CDATA[DNCN]]></fieldDescription>
+		</field>
+		<field name="BillTo" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="BillTo"/>
+			<fieldDescription><![CDATA[BillTo]]></fieldDescription>
+		</field>
+		<field name="ReceiptNo" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="ReceiptNo"/>
+			<fieldDescription><![CDATA[ReceiptNo]]></fieldDescription>
+		</field>
+		<field name="FirmCom" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="FirmCom"/>
+			<fieldDescription><![CDATA[FirmCom]]></fieldDescription>
+		</field>
+		<field name="NetDuetoClient" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="NetDuetoClient"/>
+			<fieldDescription><![CDATA[NetDuetoClient]]></fieldDescription>
+		</field>
+		<field name="FComGst" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="FComGst"/>
+			<fieldDescription><![CDATA[FComGst]]></fieldDescription>
+		</field>
+		<field name="grp1" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="grp1"/>
+			<fieldDescription><![CDATA[grp1]]></fieldDescription>
+		</field>
+		<field name="grp2" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="grp2"/>
+			<fieldDescription><![CDATA[grp2]]></fieldDescription>
+		</field>
+		<field name="ChequeNo" class="java.lang.String">
+			<property name="net.sf.jasperreports.json.field.expression" value="ChequeNo"/>
+			<fieldDescription><![CDATA[ChequeNo]]></fieldDescription>
+		</field>
+		<field name="ActualFCom" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="ActualFCom"/>
+			<fieldDescription><![CDATA[ActualFCom]]></fieldDescription>
+		</field>
+		<field name="NetDuetoInsCo" class="java.lang.Double">
+			<property name="net.sf.jasperreports.json.field.expression" value="NetDuetoInsCo"/>
+			<fieldDescription><![CDATA[NetDuetoInsCo]]></fieldDescription>
+		</field>
+		<group name="grp1">
+			<groupExpression><![CDATA[$F{grp1}]]></groupExpression>
+		</group>
+		<group name="grp2">
+			<groupExpression><![CDATA[$F{grp2}]]></groupExpression>
+		</group>
+	</subDataset>
+	<queryString language="json">
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<pageHeader>
+		<band height="98" splitType="Stretch">
+			<componentElement>
+				<reportElement x="0" y="0" width="802" height="97" uuid="9679526b-221a-44d4-a68d-e5a4cb7d0fb5"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="5b284c20-df7a-4427-a1e8-e23e7d273734">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="97" width="802">
+						<textField textAdjust="StretchHeight">
+							<reportElement x="0" y="0" width="802" height="15" isRemoveLineWhenBlank="true" uuid="19f26161-01e1-4ae4-9ecc-c58f20adfecd">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0)]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="14" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[($F{headertype}==0?$F{lh_title1}:"")]]></textFieldExpression>
+						</textField>
+						<textField textAdjust="StretchHeight">
+							<reportElement x="0" y="20" width="802" height="15" isRemoveLineWhenBlank="true" uuid="9644bde1-c514-4bb7-abbc-7b488b721991">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0)]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="10"/>
+							</textElement>
+							<textFieldExpression><![CDATA[($F{headertype}==0?$F{lh_title2}:"")]]></textFieldExpression>
+						</textField>
+						<textField textAdjust="StretchHeight">
+							<reportElement x="0" y="33" width="802" height="15" isRemoveLineWhenBlank="true" uuid="98722277-09ba-404c-b7b2-e6b7dc07f208">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0)]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="10"/>
+							</textElement>
+							<textFieldExpression><![CDATA[($F{headertype}==0?$F{lh_title3}:"")]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="46" width="802" height="15" isRemoveLineWhenBlank="true" uuid="25ffaf34-728a-4468-833f-67b4906df8b2">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0 && $F{lh_title4}!=null || $F{lh_title4}!="")]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="10"/>
+							</textElement>
+							<textFieldExpression><![CDATA[($F{lh_title4}!=null || $F{lh_title4}!=""?$F{lh_title4}:"")]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="46" width="802" height="15" isRemoveLineWhenBlank="true" uuid="25ffaf34-728a-4468-833f-67b4906df8b2">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0 && $F{lh_title4}==null || $F{lh_title4}=="")]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="10"/>
+							</textElement>
+							<textFieldExpression><![CDATA[($F{lh_title4}==null || $F{lh_title4}==""?$F{lh_gstregno}:"")]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="0" y="58" width="802" height="15" isRemoveLineWhenBlank="true" uuid="25ffaf34-728a-4468-833f-67b4906df8b2">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0 && ($F{lh_title4}!="" || $F{lh_title4}!=null))]]></printWhenExpression>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="10"/>
+							</textElement>
+							<textFieldExpression><![CDATA[($F{lh_title4}==null || $F{lh_title4}==""?"":$F{lh_gstregno})]]></textFieldExpression>
+						</textField>
+						<textField textAdjust="StretchHeight">
+							<reportElement x="0" y="82" width="802" height="15" isRemoveLineWhenBlank="true" uuid="f47b593f-6159-40ca-aca7-dff368881974">
+								<property name="com.jaspersoft.studio.unit.y" value="pixel"/>
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+							</reportElement>
+							<textElement textAlignment="Center">
+								<font size="12" isBold="true"/>
+							</textElement>
+							<textFieldExpression><![CDATA[($F{lbltitle})]]></textFieldExpression>
+						</textField>
+						<image>
+							<reportElement x="0" y="5" width="802" height="75" isRemoveLineWhenBlank="true" uuid="6fb22adb-16ba-42f6-8d72-d0a4bd5d759e">
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==0)]]></printWhenExpression>
+							</reportElement>
+							<imageExpression><![CDATA[($F{headertype}==0?$F{companylogoname}:"")]]></imageExpression>
+						</image>
+						<image hAlign="Center" vAlign="Middle">
+							<reportElement x="0" y="0" width="802" height="75" isRemoveLineWhenBlank="true" uuid="6fb22adb-16ba-42f6-8d72-d0a4bd5d759e">
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<printWhenExpression><![CDATA[($F{headertype}==1)]]></printWhenExpression>
+							</reportElement>
+							<imageExpression><![CDATA[($F{headertype}==1?$F{companylogoname}:"")]]></imageExpression>
+						</image>
+						<line>
+							<reportElement x="0" y="82" width="802" height="1" isRemoveLineWhenBlank="true" uuid="93e63aec-e699-45b1-a13e-dda500e595bb">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+							</reportElement>
+						</line>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="50" splitType="Stretch">
+			<componentElement>
+				<reportElement x="0" y="0" width="802" height="50" uuid="47af8fb9-1096-4fa1-858f-70099a20d533"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd" printOrder="Vertical">
+					<datasetRun subDataset="Dataset1" uuid="7f0ce26f-d20e-4036-bf4f-f9cb34be0ada">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleH.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="50" width="802">
+						<textField pattern="MM/dd/yyyy h:mm:ss a">
+							<reportElement x="0" y="0" width="116" height="15" uuid="cd4a1d00-8cfc-4330-8119-e68a57dbf2ac">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+							</reportElement>
+							<textElement textAlignment="Left" verticalAlignment="Bottom">
+								<font size="9"/>
+							</textElement>
+							<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+						</textField>
+						<staticText>
+							<reportElement x="0" y="15" width="60" height="30" uuid="c77532e0-d35f-47de-b1e1-f141e10bafce">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement>
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Bill To]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="60" y="15" width="230" height="30" uuid="f684b6a1-97ae-4549-9f4c-f952504bb97b">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement>
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Name]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="140" y="15" width="90" height="30" uuid="17fcf5fc-b595-4deb-a213-bfc84f9d1192">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement verticalAlignment="Bottom">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Receipt No]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="230" y="15" width="70" height="30" uuid="99ccfe17-2bf3-45dd-8394-2ba5601c14bf">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement verticalAlignment="Bottom">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Cheque No]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="300" y="15" width="80" height="15" uuid="95f08a32-b00f-417a-aca3-e526cb8d3766">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0"/>
+							<textElement textAlignment="Left" verticalAlignment="Top">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[DN/CN]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="300" y="30" width="80" height="15" uuid="c91211db-47a0-4a6c-933e-706e64145ab6">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement textAlignment="Left" verticalAlignment="Bottom">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[PayDate]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="380" y="15" width="75" height="30" uuid="dc858640-1864-4969-ba89-4ad18f0053c1">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement textAlignment="Right" verticalAlignment="Top">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Net Due to Client]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="495" y="15" width="65" height="30" uuid="a8a0dbcf-5e3e-4e62-a055-24d7d39948e4">
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement textAlignment="Right" verticalAlignment="Top">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Amount Paid]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="560" y="15" width="65" height="15" uuid="091b6ffe-19f1-45e3-a7b8-757abcfa7657">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0"/>
+							<textElement textAlignment="Right" verticalAlignment="Top">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Firm Com]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="560" y="30" width="65" height="15" uuid="2823e0ce-af34-48be-b992-8b100a587602">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0"/>
+							<textElement textAlignment="Right" verticalAlignment="Bottom">
+								<font size="9" isItalic="true"/>
+							</textElement>
+							<text><![CDATA[Actual F/Com]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="625" y="15" width="65" height="15" uuid="d70f9195-aae8-47d7-a265-7e0af7aa62c1">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0"/>
+							<textElement textAlignment="Right" verticalAlignment="Top">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Firm Com Gst]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="625" y="30" width="65" height="15" uuid="424d7c9f-d600-44dd-8a5c-8a9131f2a688">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0"/>
+							<textElement textAlignment="Right" verticalAlignment="Bottom">
+								<font size="9" isItalic="true"/>
+							</textElement>
+							<text><![CDATA[Actual F/Com]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="690" y="15" width="65" height="15" uuid="a7466229-32ef-44d8-a012-63ce29a948c2">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+							</reportElement>
+							<box leftPadding="2" rightPadding="0"/>
+							<textElement textAlignment="Right" verticalAlignment="Top">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Net Due to Ins.Co]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="690" y="30" width="65" height="15" uuid="2941ae05-4056-42fb-801f-3b9ca5370cfa">
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+							</reportElement>
+							<box leftPadding="0" rightPadding="0"/>
+							<textElement textAlignment="Right" verticalAlignment="Bottom">
+								<font size="9" isItalic="true"/>
+							</textElement>
+							<text><![CDATA[Firm Com]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="755" y="15" width="47" height="30" uuid="a21b206a-e60c-4896-8c22-c0bbd03fb65e">
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.width" value="px"/>
+							</reportElement>
+							<box leftPadding="4" rightPadding="0">
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement textAlignment="Left" verticalAlignment="Top">
+								<font size="9"/>
+							</textElement>
+							<text><![CDATA[Ins Co]]></text>
+						</staticText>
+						<line>
+							<reportElement x="0" y="15" width="799" height="1" uuid="f2fa7eda-8d47-4a7f-b4af-8e3de5e498db">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+							</reportElement>
+						</line>
+						<line>
+							<reportElement x="0" y="45" width="799" height="1" uuid="f68ac7d4-2658-4824-8ba3-d633ca8c57dc">
+								<property name="com.jaspersoft.studio.unit.height" value="px"/>
+								<property name="com.jaspersoft.studio.unit.y" value="px"/>
+								<property name="com.jaspersoft.studio.unit.x" value="px"/>
+							</reportElement>
+						</line>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+			<textField evaluationTime="Master">
+				<reportElement x="718" y="-1" width="80" height="15" uuid="59bb36a1-5bab-4a3f-a510-2559531122e0">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+					<property name="com.jaspersoft.studio.unit.y" value="px"/>
+					<property name="com.jaspersoft.studio.unit.x" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Right" verticalAlignment="Bottom">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA["Page " + $V{MASTER_CURRENT_PAGE}  + " of " + $V{MASTER_TOTAL_PAGES}]]></textFieldExpression>
+			</textField>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="263" splitType="Stretch">
+			<componentElement>
+				<reportElement x="0" y="0" width="802" height="41" uuid="503ade79-f863-4e0a-b6a4-80e8ea032012">
+					<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.VerticalRowLayout"/>
+					<property name="com.jaspersoft.studio.table.style.table_header" value="Table_TH"/>
+					<property name="com.jaspersoft.studio.table.style.column_header" value="Table_CH"/>
+					<property name="com.jaspersoft.studio.table.style.detail" value="Table_TD"/>
+				</reportElement>
+				<jr:table xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<datasetRun subDataset="Dataset2" uuid="0ad54fe4-8658-4474-a6fd-7f73ae4448ae">
+						<dataSourceExpression><![CDATA[((net.sf.jasperreports.engine.data.JsonDataSource)$P{REPORT_DATA_SOURCE}).subDataSource("rptModuleI.content")]]></dataSourceExpression>
+					</datasetRun>
+					<jr:column width="802" uuid="1b0678bc-fb3b-41d8-af3d-8ea6d818ca17">
+						<property name="com.jaspersoft.studio.components.table.model.column.name" value="Column1"/>
+						<jr:tableFooter style="Table_TH" height="45" rowSpan="1">
+							<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="20" y="33" width="115" height="12" isRemoveLineWhenBlank="true" uuid="e0c40e38-73bd-45b4-a2d7-088e66967747">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{labelTotal2}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="20" y="21" width="115" height="12" isRemoveLineWhenBlank="true" uuid="b019a517-fcbc-4452-a621-7db63ba40d7f">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{labelTotal1}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="140" y="21" width="90" height="12" isRemoveLineWhenBlank="true" uuid="339df92c-27d5-47e0-991f-5c57355e824c">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{grp1}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="390" y="21" width="65" height="12" isRemoveLineWhenBlank="true" uuid="a31564b6-df0b-41b9-bac8-7360a0c401b6">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{NetDuetoClient}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="455" y="21" width="35" height="12" isRemoveLineWhenBlank="true" uuid="7203a784-8723-40a2-ae95-cadf4b82abcb">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{CurrencyCode}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="455" y="33" width="35" height="12" isRemoveLineWhenBlank="true" uuid="7b6a56a7-6d8b-4685-952d-c82e98fa1602">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{CurrencyCode}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="489" y="33" width="65" height="12" isRemoveLineWhenBlank="true" uuid="6ef69606-229f-4962-a971-75f380fb4328">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{AmountPaid}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="490" y="21" width="65" height="12" isRemoveLineWhenBlank="true" uuid="2082adda-6ffc-448f-9155-704d1ba94fc0">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{AmountPaid}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="555" y="21" width="70" height="12" isRemoveLineWhenBlank="true" uuid="f6ee282b-f1a1-4e68-8b8c-a9b31b14e473">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FirmCom}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="555" y="33" width="70" height="12" isRemoveLineWhenBlank="true" uuid="e068de93-7e25-4400-baf6-de3ae1582371">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualFCom}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="625" y="21" width="65" height="12" isRemoveLineWhenBlank="true" uuid="ac0da01a-a240-49c7-8ff7-33eb154fed0b">
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FComGst}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="625" y="33" width="65" height="12" isRemoveLineWhenBlank="true" uuid="55db4970-baa2-441d-ba4d-889ee7def99f">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualFGst}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="690" y="33" width="65" height="12" isRemoveLineWhenBlank="true" uuid="d576674a-3519-47ae-b098-1b1c0a8a692c">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualNetDue}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="690" y="21" width="65" height="12" isRemoveLineWhenBlank="true" uuid="2e846973-6e48-45a4-8f6f-1c5dd8151646">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}==999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{NetDuetoInsCo}]]></textFieldExpression>
+							</textField>
+						</jr:tableFooter>
+						<jr:groupHeader groupName="grp1">
+							<jr:cell height="20" rowSpan="1">
+								<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
+								<staticText>
+									<reportElement x="0" y="8" width="135" height="12" isRemoveLineWhenBlank="true" uuid="680113a7-d9db-4321-a37d-668d94dc3f73">
+										<property name="com.jaspersoft.studio.unit.width" value="px"/>
+										<property name="com.jaspersoft.studio.unit.y" value="px"/>
+										<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+									</reportElement>
+									<textElement>
+										<font size="9" isBold="true"/>
+									</textElement>
+									<text><![CDATA[Receipt for Official Receipt No:]]></text>
+								</staticText>
+								<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+									<reportElement x="140" y="8" width="90" height="12" isRemoveLineWhenBlank="true" uuid="b477a6ae-c599-4fca-959c-538af9a6d741">
+										<property name="com.jaspersoft.studio.unit.width" value="px"/>
+										<property name="com.jaspersoft.studio.unit.x" value="px"/>
+										<property name="com.jaspersoft.studio.unit.y" value="px"/>
+										<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+									</reportElement>
+									<textElement>
+										<font size="9" isBold="true"/>
+									</textElement>
+									<textFieldExpression><![CDATA[$F{grp2}]]></textFieldExpression>
+								</textField>
+								<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+									<reportElement x="230" y="8" width="70" height="12" isRemoveLineWhenBlank="true" uuid="dfe82971-79b2-4ebe-85c0-b3d9c0e981d3">
+										<property name="com.jaspersoft.studio.unit.width" value="px"/>
+										<property name="com.jaspersoft.studio.unit.x" value="px"/>
+										<property name="com.jaspersoft.studio.unit.y" value="px"/>
+										<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+									</reportElement>
+									<textElement>
+										<font size="9"/>
+									</textElement>
+									<textFieldExpression><![CDATA[$F{ChequeNo}]]></textFieldExpression>
+								</textField>
+								<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+									<reportElement x="300" y="8" width="90" height="12" isRemoveLineWhenBlank="true" uuid="2365ed4e-c5da-4f9e-a98c-77dfe60fa736">
+										<property name="com.jaspersoft.studio.unit.x" value="px"/>
+										<property name="com.jaspersoft.studio.unit.height" value="px"/>
+										<property name="com.jaspersoft.studio.unit.y" value="px"/>
+										<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+									</reportElement>
+									<textElement>
+										<font size="9"/>
+									</textElement>
+									<textFieldExpression><![CDATA[$F{PayDate}]]></textFieldExpression>
+								</textField>
+							</jr:cell>
+						</jr:groupHeader>
+						<jr:detailCell style="Table_TD" height="5">
+							<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="0" y="0" width="60" height="1" isRemoveLineWhenBlank="true" uuid="751afa9d-a3e4-4be2-b5f0-077b92c8cb6c">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{BillTo}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="60" y="0" width="240" height="1" isRemoveLineWhenBlank="true" uuid="389a1f1f-f1a8-4c97-9536-1c8e5df37e12">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{Name}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="300" y="0" width="90" height="1" isRemoveLineWhenBlank="true" uuid="8265da2b-ad5a-4f10-b763-a04beabbc6a2">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{DNCN}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="390" y="0" width="65" height="1" isRemoveLineWhenBlank="true" uuid="990efec4-2a16-4ad8-8043-7cfb5a720e99">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{NetDuetoClient}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="490" y="0" width="65" height="1" isRemoveLineWhenBlank="true" uuid="ccfade78-3a4c-4bfb-a00a-bfcf40ae02bf">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{AmountPaid}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="555" y="0" width="70" height="1" isRemoveLineWhenBlank="true" uuid="04633a87-2e07-4bc6-b7c5-69ffe55c19f1">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FirmCom}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="690" y="0" width="65" height="1" isRemoveLineWhenBlank="true" uuid="f0ac0c5a-3bdb-4b8f-be8c-974f35eef9e4">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{NetDuetoInsCo}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="625" y="0" width="65" height="1" isRemoveLineWhenBlank="true" uuid="52e30d8d-f6f2-4f85-83bd-58de7e660572">
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FComGst}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="755" y="0" width="47" height="1" isRemoveLineWhenBlank="true" uuid="ca4ac9b9-a8c2-40de-b688-f90bd62acbdf">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<box leftPadding="4"/>
+								<textElement textAlignment="Left">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{InsCo}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" positionType="Float" x="555" y="1" width="70" height="1" isRemoveLineWhenBlank="true" uuid="08283290-a6d3-45f3-a9a6-33b6dcd64e5c">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualFCom}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" positionType="Float" x="625" y="1" width="65" height="1" isRemoveLineWhenBlank="true" uuid="2f6138eb-2ab7-46a7-976c-a158381b0398">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualFGst}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" positionType="Float" x="690" y="1" width="65" height="1" isRemoveLineWhenBlank="true" uuid="a76be6b5-741c-4afc-92e5-bf56ea605b25">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualNetDue}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="455" y="0" width="35" height="1" isRemoveLineWhenBlank="true" uuid="6122cb33-8117-48bf-bc78-de46ed97f18d">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq3}!=999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{CurrencyCode}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="20" y="2" width="115" height="1" isRemoveLineWhenBlank="true" uuid="6c40c74b-c06e-4b28-94f2-af695e54d9cf">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{labelTotal1}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="140" y="2" width="90" height="1" isRemoveLineWhenBlank="true" uuid="be327235-35cb-42ab-96bc-9e8b02c18455">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{grp2}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="455" y="2" width="35" height="1" isRemoveLineWhenBlank="true" uuid="83216255-a7d5-4a50-aff9-bd35ea7d3ebe">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{CurrencyCode}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="490" y="2" width="65" height="1" isRemoveLineWhenBlank="true" uuid="c13cccc3-312c-4769-8ba9-da73b5d945a4">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{AmountPaid}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="555" y="2" width="70" height="1" isRemoveLineWhenBlank="true" uuid="31429425-f1dc-4213-b22a-cf249c84036d">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FirmCom}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="625" y="2" width="65" height="1" isRemoveLineWhenBlank="true" uuid="4379d389-8da9-4227-af4f-f35216c3cac3">
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FComGst}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="690" y="2" width="65" height="1" isRemoveLineWhenBlank="true" uuid="4d8ecb59-785c-4fcf-affe-909cfd09a9d9">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}!=999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{NetDuetoInsCo}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="20" y="3" width="115" height="1" isRemoveLineWhenBlank="true" uuid="2cd62695-e67a-41ca-b585-a4cc80ed326c">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{labelTotal1}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement positionType="Float" x="20" y="4" width="115" height="1" isRemoveLineWhenBlank="true" uuid="35e07559-84a9-41c5-8021-efaf8cd5f041">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{labelTotal2}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="140" y="3" width="90" height="1" isRemoveLineWhenBlank="true" uuid="7c2b9d85-56f9-4bf7-be99-5ba7ea379ef5">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement>
+									<font size="9" isBold="false"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{grp1}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="390" y="3" width="65" height="1" isRemoveLineWhenBlank="true" uuid="386532b1-5b99-4aaf-9ff2-16895d47c3b7">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{NetDuetoClient}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement x="455" y="3" width="35" height="1" isRemoveLineWhenBlank="true" uuid="2210f173-c2f8-4365-a954-68bea6320c6c">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{CurrencyCode}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement positionType="Float" x="455" y="4" width="35" height="1" isRemoveLineWhenBlank="true" uuid="506d42f1-25fa-46b7-b208-68ca5149c60e">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{CurrencyCode}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="490" y="3" width="65" height="1" isRemoveLineWhenBlank="true" uuid="26618571-c8cf-453d-9114-8a2d1761b3fc">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{AmountPaid}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" positionType="Float" x="489" y="4" width="65" height="1" isRemoveLineWhenBlank="true" uuid="5f935c33-e42f-4686-a124-11b054f60197">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{AmountPaid}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" positionType="Float" x="555" y="4" width="70" height="1" isRemoveLineWhenBlank="true" uuid="099c40c9-ba28-4756-9997-c52431b3b739">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualFCom}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="555" y="3" width="70" height="1" isRemoveLineWhenBlank="true" uuid="eb2cc379-0a51-40cc-b022-1256ffea090f">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FirmCom}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="625" y="3" width="65" height="1" isRemoveLineWhenBlank="true" uuid="adab6edb-9571-4bb5-817f-388909e30c8b">
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{FComGst}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" positionType="Float" x="625" y="4" width="65" height="1" isRemoveLineWhenBlank="true" uuid="234730de-766f-4d0d-b0dc-199fee753912">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualFGst}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" x="690" y="3" width="65" height="1" isRemoveLineWhenBlank="true" uuid="945e46c1-aadb-4ee0-9562-591297644b39">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{NetDuetoInsCo}]]></textFieldExpression>
+							</textField>
+							<textField textAdjust="StretchHeight" isBlankWhenNull="true">
+								<reportElement style="twoDecimalFont" positionType="Float" x="690" y="4" width="65" height="1" isRemoveLineWhenBlank="true" uuid="5e0ea273-c7ad-4fc6-b552-763b227cb60a">
+									<property name="com.jaspersoft.studio.unit.width" value="px"/>
+									<property name="com.jaspersoft.studio.unit.x" value="px"/>
+									<property name="com.jaspersoft.studio.unit.y" value="px"/>
+									<property name="com.jaspersoft.studio.unit.height" value="px"/>
+									<printWhenExpression><![CDATA[$F{seq1}!=999 && $F{seq2}==999 && $F{seq3}==999]]></printWhenExpression>
+								</reportElement>
+								<textElement textAlignment="Right">
+									<font size="9" isItalic="true" isUnderline="true"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{ActualNetDue}]]></textFieldExpression>
+							</textField>
+						</jr:detailCell>
+					</jr:column>
+				</jr:table>
+			</componentElement>
+		</band>
+	</detail>
+</jasperReport>

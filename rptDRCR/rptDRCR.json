@@ -1,0 +1,4343 @@
+ {
+ 	"result": [{
+ 		"header": "LBLREFNO",
+ 		"row": 1,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 1,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 1,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 1,
+ 		"value": "TESTING"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 1,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 1,
+ 		"value": "0.86"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 1,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 1,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 1,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 1,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 1,
+ 		"value": "12.34"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 1,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 1,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 1,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 1,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 1,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 1,
+ 		"value": "13.20"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 1,
+ 		"value": "TESTING 1242143"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 1,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 1,
+ 		"value": "EAARDN1800016"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 1,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 1,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 1,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 1,
+ 		"value": 1
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 1,
+ 		"value": "12.34"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 1,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 1,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 1,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 1,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 1,
+ 		"value": "31/03/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 1,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 1,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 1,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 1,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 2,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 2,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 2,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 2,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 2,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 2,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 2,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 2,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 2,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 2,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 2,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 2,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 2,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 2,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 2,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 2,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 2,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 2,
+ 		"value": "adsadsad"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 2,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 2,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 2,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 2,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 2,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 2,
+ 		"value": 1
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 2,
+ 		"value": "11.66"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 2,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 2,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 2,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 2,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 2,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 2,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 2,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 2,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 2,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 3,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 3,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 3,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 3,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 3,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 3,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 3,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 3,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 3,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 3,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 3,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 3,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 3,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 3,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 3,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 3,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 3,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 3,
+ 		"value": "saasasasas"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 3,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 3,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 3,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 3,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 3,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 3,
+ 		"value": 2
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 3,
+ 		"value": "11.66"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 3,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 3,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 3,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 3,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 3,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 3,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 3,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 3,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 3,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 4,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 4,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 4,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 4,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 4,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 4,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 4,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 4,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 4,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 4,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 4,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 4,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 4,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 4,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 4,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 4,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 4,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 4,
+ 		"value": "111qqq"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 4,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 4,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 4,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 4,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 4,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 4,
+ 		"value": 3
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 4,
+ 		"value": "12.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 4,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 4,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 4,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 4,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 4,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 4,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 4,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 4,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 4,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 5,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 5,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 5,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 5,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 5,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 5,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 5,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 5,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 5,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 5,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 5,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 5,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 5,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 5,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 5,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 5,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 5,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 5,
+ 		"value": "test"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 5,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 5,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 5,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 5,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 5,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 5,
+ 		"value": 4
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 5,
+ 		"value": "12.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 5,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 5,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 5,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 5,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 5,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 5,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 5,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 5,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 5,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 6,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 6,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 6,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 6,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 6,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 6,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 6,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 6,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 6,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 6,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 6,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 6,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 6,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 6,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 6,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 6,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 6,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 6,
+ 		"value": "helloword"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 6,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 6,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 6,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 6,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 6,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 6,
+ 		"value": 5
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 6,
+ 		"value": "19.10"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 6,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 6,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 6,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 6,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 6,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 6,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 6,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 6,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 6,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 7,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 7,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 7,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 7,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 7,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 7,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 7,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 7,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 7,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 7,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 7,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 7,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 7,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 7,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 7,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 7,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 7,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 7,
+ 		"value": "eee"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 7,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 7,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 7,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 7,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 7,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 7,
+ 		"value": 6
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 7,
+ 		"value": "22.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 7,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 7,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 7,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 7,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 7,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 7,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 7,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 7,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 7,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 8,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 8,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 8,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 8,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 8,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 8,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 8,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 8,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 8,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 8,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 8,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 8,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 8,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 8,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 8,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 8,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 8,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 8,
+ 		"value": "wewew"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 8,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 8,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 8,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 8,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 8,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 8,
+ 		"value": 7
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 8,
+ 		"value": "221.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 8,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 8,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 8,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 8,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 8,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 8,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 8,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 8,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 8,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 9,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 9,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 9,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 9,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 9,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 9,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 9,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 9,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 9,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 9,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 9,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 9,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 9,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 9,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 9,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 9,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 9,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 9,
+ 		"value": "wqqqqqqqqqqqqqqqqqqqqqqeweweweweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 9,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 9,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 9,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 9,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 9,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 9,
+ 		"value": 8
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 9,
+ 		"value": "33.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 9,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 9,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 9,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 9,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 9,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 9,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 9,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 9,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 9,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 10,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 10,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 10,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 10,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 10,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 10,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 10,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 10,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 10,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 10,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 10,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 10,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 10,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 10,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 10,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 10,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 10,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 10,
+ 		"value": "qwqwq"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 10,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 10,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 10,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 10,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 10,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 10,
+ 		"value": 9
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 10,
+ 		"value": "112.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 10,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 10,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 10,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 10,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 10,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 10,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 10,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 10,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 10,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 11,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 11,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 11,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 11,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 11,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 11,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 11,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 11,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 11,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 11,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 11,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 11,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 11,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 11,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 11,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 11,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 11,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 11,
+ 		"value": "wqwq"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 11,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 11,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 11,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 11,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 11,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 11,
+ 		"value": 10
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 11,
+ 		"value": "11.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 11,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 11,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 11,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 11,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 11,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 11,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 11,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 11,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 11,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 12,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 12,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 12,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 12,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 12,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 12,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 12,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 12,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 12,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 12,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 12,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 12,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 12,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 12,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 12,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 12,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 12,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 12,
+ 		"value": "qwqwq"
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 12,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 12,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 12,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 12,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 12,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 12,
+ 		"value": 11
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 12,
+ 		"value": "22.00"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 12,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 12,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 12,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 12,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 12,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 12,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 12,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 12,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 12,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 13,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 13,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 13,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 13,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 13,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 13,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 13,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 13,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 13,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 13,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 13,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 13,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 13,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 13,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 13,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 13,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 13,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 13,
+ 		"value": "A host-to-network configuration is analogous to connecting a computer to a local area network."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 13,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 13,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 13,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 13,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 13,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 13,
+ 		"value": 12
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 13,
+ 		"value": "123.45"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 13,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 13,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 13,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 13,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 13,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 13,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 13,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 13,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 13,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 14,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 14,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 14,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 14,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 14,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 14,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 14,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 14,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 14,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 14,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 14,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 14,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 14,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 14,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 14,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 14,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 14,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 14,
+ 		"value": "This type provides access to an enterprise network, such as an intranet."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 14,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 14,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 14,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 14,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 14,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 14,
+ 		"value": 13
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 14,
+ 		"value": "6.78"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 14,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 14,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 14,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 14,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 14,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 14,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 14,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 14,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 14,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 15,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 15,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 15,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 15,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 15,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 15,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 15,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 15,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 15,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 15,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 15,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 15,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 15,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 15,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 15,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 15,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 15,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 15,
+ 		"value": "This may be employed for telecommuting workers who need access to private resources, or to enable a mobile worker to access important tools without exposing them to the public Internet."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 15,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 15,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 15,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 15,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 15,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 15,
+ 		"value": 14
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 15,
+ 		"value": "1.23"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 15,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 15,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 15,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 15,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 15,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 15,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 15,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 15,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 15,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 16,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 16,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 16,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 16,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 16,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 16,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 16,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 16,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 16,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 16,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 16,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 16,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 16,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 16,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 16,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 16,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 16,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 16,
+ 		"value": "A site-to-site configuration connects two networks."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 16,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 16,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 16,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 16,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 16,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 16,
+ 		"value": 15
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 16,
+ 		"value": "2.34"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 16,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 16,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 16,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 16,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 16,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 16,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 16,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 16,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 16,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 17,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 17,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 17,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 17,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 17,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 17,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 17,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 17,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 17,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 17,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 17,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 17,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 17,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 17,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 17,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 17,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 17,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 17,
+ 		"value": "In the context of site-to-site configurations, the terms intranet and extranet are used to describe two different use cases."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 17,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 17,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 17,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 17,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 17,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 17,
+ 		"value": 16
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 17,
+ 		"value": "3.45"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 17,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 17,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 17,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 17,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 17,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 17,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 17,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 17,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 17,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 18,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 18,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 18,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 18,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 18,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 18,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 18,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 18,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 18,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 18,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 18,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 18,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 18,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 18,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 18,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 18,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 18,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 18,
+ 		"value": "An intranet site-to-site VPN describes a configuration where the sites connected by the VPN belong to the same organization, whereas an extranet site-to-site VPN joins sites belonging to multiple organizations."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 18,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 18,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 18,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 18,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 18,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 18,
+ 		"value": 17
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 18,
+ 		"value": "4.56"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 18,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 18,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 18,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 18,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 18,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 18,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 18,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 18,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 18,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 19,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 19,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 19,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 19,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 19,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 19,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 19,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 19,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 19,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 19,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 19,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 19,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 19,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 19,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 19,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 19,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 19,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 19,
+ 		"value": "VPNs cannot make online connections completely anonymous, but they can usually increase privacy and security."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 19,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 19,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 19,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 19,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 19,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 19,
+ 		"value": 18
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 19,
+ 		"value": "1.45"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 19,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 19,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 19,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 19,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 19,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 19,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 19,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 19,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 19,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 20,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 20,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 20,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 20,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 20,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 20,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 20,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 20,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 20,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 20,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 20,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 20,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 20,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 20,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 20,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 20,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 20,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 20,
+ 		"value": "Depending on whether a provider-provisioned VPN (PPVPN) operates in layer 2 or layer 3, the building blocks described below may be L2 only, L3 only, or a combination of both. Multi-protocol label switching (MPLS) functionality blurs the L2-L3 identity."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 20,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 20,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 20,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 20,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 20,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 20,
+ 		"value": 19
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 20,
+ 		"value": "2.34"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 20,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 20,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 20,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 20,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 20,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 20,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 20,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 20,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 20,
+ 		"value": "DEBIT NOTE"
+ 	}, {
+ 		"header": "LBLREFNO",
+ 		"row": 21,
+ 		"value": "NO: "
+ 	}, {
+ 		"header": "TRADERNAME",
+ 		"row": 21,
+ 		"value": "CHIA YUEN KOON"
+ 	}, {
+ 		"header": "LINECOMPANYPF",
+ 		"row": 21,
+ 		"value": "______________________________"
+ 	}, {
+ 		"header": "DESCRIPTION",
+ 		"row": 21,
+ 		"value": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work"
+ 	}, {
+ 		"header": "LBLGSTPERCENT",
+ 		"row": 21,
+ 		"value": "7% GST:"
+ 	}, {
+ 		"header": "GSTAMT1",
+ 		"row": 21,
+ 		"value": "0.00"
+ 	}, {
+ 		"header": "ATTND",
+ 		"row": 21,
+ 		"value": "ATTN: THRU AIG PORTAL"
+ 	}, {
+ 		"header": "LBLTOTALDUEAMT1",
+ 		"row": 21,
+ 		"value": "TOTAL:"
+ 	}, {
+ 		"header": "LBLCOMPPF",
+ 		"row": 21,
+ 		"value": "AUTHORISED SIGNATURE"
+ 	}, {
+ 		"header": "ADD3",
+ 		"row": 21,
+ 		"value": "SINGAPORE 530561"
+ 	}, {
+ 		"header": "SUBTOTAL",
+ 		"row": 21,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "ADD2",
+ 		"row": 21,
+ 		"value": "#06-424"
+ 	}, {
+ 		"header": "ADD1",
+ 		"row": 21,
+ 		"value": "BLK 563 HOUGANG ST 51"
+ 	}, {
+ 		"header": "CURRENCYCODE",
+ 		"row": 21,
+ 		"value": "SGD"
+ 	}, {
+ 		"header": "CLIENTREFNO1",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLAMTBFGST",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "AMTBFGST",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "LBLCURRENCYCODE",
+ 		"row": 21,
+ 		"value": "CURRENCY: "
+ 	}, {
+ 		"header": "LBLSUBTOTAL",
+ 		"row": 21,
+ 		"value": "SUBTOTAL (EXC GST): "
+ 	}, {
+ 		"header": "TOTALDUEAMT1",
+ 		"row": 21,
+ 		"value": "679.99"
+ 	}, {
+ 		"header": "LBLESIGNPF",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "VEHICLENUMBER",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "DESCRIPTIONITEM",
+ 		"row": 21,
+ 		"value": "A device at the edge of the customer's network which provides access to the PPVPN. Sometimes it is just a demarcation point between provider and customer responsibility. Other providers allow customers to configure it."
+ 	}, {
+ 		"header": "LBLDATEISSUED",
+ 		"row": 21,
+ 		"value": "DATE: "
+ 	}, {
+ 		"header": "REFNO",
+ 		"row": 21,
+ 		"value": "EAARDN1800017"
+ 	}, {
+ 		"header": "VEHICLEINFO",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "TRADERCODE",
+ 		"row": 21,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "LBLCLIENTREFNO1",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "TXTHANDPHONE",
+ 		"row": 21,
+ 		"value": ""
+ 	}, {
+ 		"header": "TERM",
+ 		"row": 21,
+ 		"value": "COD"
+ 	}, {
+ 		"header": "LINENO",
+ 		"row": 21,
+ 		"value": 20
+ 	}, {
+ 		"header": "ITEMNETAMT1",
+ 		"row": 21,
+ 		"value": "3.44"
+ 	}, {
+ 		"header": "COMPID",
+ 		"row": 21,
+ 		"value": "ETA"
+ 	}, {
+ 		"header": "LBLTRADERCODE1",
+ 		"row": 21,
+ 		"value": "A/C NO: "
+ 	}, {
+ 		"header": "SIGNCOMPANYPF",
+ 		"row": 21,
+ 		"value": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD"
+ 	}, {
+ 		"header": "TRADERCODE1",
+ 		"row": 21,
+ 		"value": "C0013"
+ 	}, {
+ 		"header": "DATEISSUED",
+ 		"row": 21,
+ 		"value": "08/04/2021"
+ 	}, {
+ 		"header": "LBLTERM",
+ 		"row": 21,
+ 		"value": "TERM: "
+ 	}, {
+ 		"header": "NOTE2PF",
+ 		"row": 21,
+ 		"value": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890"
+ 	}, {
+ 		"header": "TELFAX",
+ 		"row": 21,
+ 		"value": "TEL: 96264832"
+ 	}, {
+ 		"header": "LBLTITLE",
+ 		"row": 21,
+ 		"value": "DEBIT NOTE"
+ 	}],
+ 	"rptModuleI": {
+ 		"content": [{
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "TESTING",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.86",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "12.34",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "13.20",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "TESTING 1242143",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800016",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 1,
+ 			"ItemNetAmt1": "12.34",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "31/03/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "adsadsad",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 1,
+ 			"ItemNetAmt1": "11.66",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "saasasasas",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 2,
+ 			"ItemNetAmt1": "11.66",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "111qqq",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 3,
+ 			"ItemNetAmt1": "12.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "test",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 4,
+ 			"ItemNetAmt1": "12.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "helloword",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 5,
+ 			"ItemNetAmt1": "19.10",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "eee",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 6,
+ 			"ItemNetAmt1": "22.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "wewew",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 7,
+ 			"ItemNetAmt1": "221.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "wqqqqqqqqqqqqqqqqqqqqqqeweweweweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 8,
+ 			"ItemNetAmt1": "33.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "qwqwq",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 9,
+ 			"ItemNetAmt1": "112.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "wqwq",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 10,
+ 			"ItemNetAmt1": "11.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "qwqwq",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 11,
+ 			"ItemNetAmt1": "22.00",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "A host-to-network configuration is analogous to connecting a computer to a local area network.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 12,
+ 			"ItemNetAmt1": "123.45",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "This type provides access to an enterprise network, such as an intranet.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 13,
+ 			"ItemNetAmt1": "6.78",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "This may be employed for telecommuting workers who need access to private resources, or to enable a mobile worker to access important tools without exposing them to the public Internet.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 14,
+ 			"ItemNetAmt1": "1.23",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "A site-to-site configuration connects two networks.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 15,
+ 			"ItemNetAmt1": "2.34",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "In the context of site-to-site configurations, the terms intranet and extranet are used to describe two different use cases.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 16,
+ 			"ItemNetAmt1": "3.45",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "An intranet site-to-site VPN describes a configuration where the sites connected by the VPN belong to the same organization, whereas an extranet site-to-site VPN joins sites belonging to multiple organizations.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 17,
+ 			"ItemNetAmt1": "4.56",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "VPNs cannot make online connections completely anonymous, but they can usually increase privacy and security.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 18,
+ 			"ItemNetAmt1": "1.45",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "Depending on whether a provider-provisioned VPN (PPVPN) operates in layer 2 or layer 3, the building blocks described below may be L2 only, L3 only, or a combination of both. Multi-protocol label switching (MPLS) functionality blurs the L2-L3 identity.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 19,
+ 			"ItemNetAmt1": "2.34",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}, {
+ 			"lblRefNo": "NO: ",
+ 			"TraderName": "CHIA YUEN KOON",
+ 			"LineCompanyPF": "______________________________",
+ 			"Description": "analyse user requirements\nwrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project\nresearch, design and write new software programs (e.g. business applications or computer games) and computer operating systems\nevaluate the software and systems that make computers and hardware work\ndevelop existing programs by analysing and identifying areas for modification\nintegrate existing software products and get incompatible platforms to work",
+ 			"lblGSTPercent": "7% GST:",
+ 			"GSTAmt1": "0.00",
+ 			"ATTND": "ATTN: THRU AIG PORTAL",
+ 			"lblTotalDueAmt1": "TOTAL:",
+ 			"lblCompPF": "AUTHORISED SIGNATURE",
+ 			"Add3": "SINGAPORE 530561",
+ 			"SubTotal": "679.99",
+ 			"Add2": "#06-424",
+ 			"Add1": "BLK 563 HOUGANG ST 51",
+ 			"CurrencyCode": "SGD",
+ 			"ClientRefNo1": null,
+ 			"lblAmtBFGST": "",
+ 			"AmtBFGST": "",
+ 			"lblCurrencyCode": "CURRENCY: ",
+ 			"lblSubtotal": "SUBTOTAL (EXC GST): ",
+ 			"TotalDueAmt1": "679.99",
+ 			"lbleSignPF": "",
+ 			"VehicleNumber": null,
+ 			"DescriptionItem": "A device at the edge of the customer's network which provides access to the PPVPN. Sometimes it is just a demarcation point between provider and customer responsibility. Other providers allow customers to configure it.",
+ 			"lblDateIssued": "DATE: ",
+ 			"RefNo": "EAARDN1800017",
+ 			"VehicleInfo": null,
+ 			"TraderCode": "C0013",
+ 			"lblClientRefNo1": "",
+ 			"txthandphone": "",
+ 			"Term": "COD",
+ 			"LINENO": 20,
+ 			"ItemNetAmt1": "3.44",
+ 			"CompID": "ETA",
+ 			"lblTraderCode1": "A/C NO: ",
+ 			"SignCompanyPF": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"TraderCode1": "C0013",
+ 			"DateIssued": "08/04/2021",
+ 			"lblTerm": "TERM: ",
+ 			"Note2PF": "test rptDRCR TESTING<br/>TESTING Messaging 12344567890 12344567890 12344567890<br/>BBBB Messaging 12344567890 12344567890 12344567890",
+ 			"TelFax": "TEL: 96264832",
+ 			"lblTitle": "DEBIT NOTE"
+ 		}]
+ 	},
+ 	"rptModuleH": {
+ 		"content": [{
+ 			"LH_GSTRegNo": "GST REG NO: 888111111E  Company Reg No: 999111111E",
+ 			"LH_title2": "123 Upper Aljunied Link #11-11 456 Quartz Industrial Hub 789 Singapore 012345",
+ 			"LH_title1": "DEF ABCDE FGHCONDITIONING & ELECTRICAL EGINNERING PTE LTD",
+ 			"companylogoname": "/usr/local/Tomcat/apache-tomcat-8.5.37/bin/companyLogos01234567891011121314151617181920212223242526",
+ 			"LH_title4": "",
+ 			"headertype": 0,
+ 			"LH_title3": "TEL: 7777 2222 FAX: 8888 3333"
+ 		}]
+ 	}
+ }
